@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...help the earth
 - 🌱 I’m currently learning ...everything
 - 💞️ I’m looking to collaborate on ...climate exchange
-- 📫 How to reach me ...mpecurto@hotmail.com 
+
 
 <!---
 Mpecurto/Mpecurto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
